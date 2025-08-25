@@ -1,4 +1,4 @@
-# Face Detection using OpenCV (Haar/DNN) — Colab Ready
+# Face Detection using OpenCV (Haar) — Colab Ready
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Techro0/face-detection-using-haar/blob/main/Face_Detection_using_haar.ipynb)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -60,7 +60,7 @@ See `requirements.txt`. Minimal set:
 ---
 
 ## License
-MIT © 2025 Techro0
+MIT © 2024 Techro0
 
 ---
 
