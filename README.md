@@ -1,11 +1,11 @@
-# Face Detection using OpenCV (Haar) — Colab Ready
+# Face Detection using Haar
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Techro0/face-detection-using-haar/blob/main/Face_Detection_using_haar.ipynb)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/opencv-4.x-informational)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-This repo provides a **human face detection** pipeline built with **OpenCV** and designed for **Google Colab**.
+This repo provides a **human face detection** pipeline built with **Harr** and optionally **OpenCV**.
 
 - **Detectors**: choose **Haar cascade** (fast, classic) or **DNN (Res10 SSD)** (more robust).
 - **Datasets**: upload a **ZIP** or **TGZ/TAR** archive; the notebook extracts, runs detection on every image, and saves:
@@ -22,8 +22,6 @@ This repo provides a **human face detection** pipeline built with **OpenCV** and
 - `requirements.txt` — dependencies.
 - `LICENSE` — MIT.
 - `.gitignore` — clean repo defaults.
-
-If you pick a different repo name than `face-detection-using-haar`, update the **Colab badge** URL at the top of this README.
 
 ---
 
